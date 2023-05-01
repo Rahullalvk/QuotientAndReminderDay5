@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Day_3\QuotientAndReminder\QuotientAndReminder\QuotientAndReminder\bin\Debug\QuotientAndReminder.exe.config
+C:\Users\Admin\Documents\Day_3\QuotientAndReminder\QuotientAndReminder\QuotientAndReminder\bin\Debug\QuotientAndReminder.exe
+C:\Users\Admin\Documents\Day_3\QuotientAndReminder\QuotientAndReminder\QuotientAndReminder\bin\Debug\QuotientAndReminder.pdb
+C:\Users\Admin\Documents\Day_3\QuotientAndReminder\QuotientAndReminder\QuotientAndReminder\obj\Debug\QuotientAndReminder.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day_3\QuotientAndReminder\QuotientAndReminder\QuotientAndReminder\obj\Debug\QuotientAndReminder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Day_3\QuotientAndReminder\QuotientAndReminder\QuotientAndReminder\obj\Debug\QuotientAndReminder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day_3\QuotientAndReminder\QuotientAndReminder\QuotientAndReminder\obj\Debug\QuotientAndReminder.exe
+C:\Users\Admin\Documents\Day_3\QuotientAndReminder\QuotientAndReminder\QuotientAndReminder\obj\Debug\QuotientAndReminder.pdb
